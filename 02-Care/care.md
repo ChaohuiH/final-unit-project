@@ -1,2 +1,1 @@
-"# Cat Care" 
-"Tips on feeding, grooming, and keeping your cat healthy." 
+"Tips for taking care for your cat are feeding, grooming, and keeping your cat healthy." 
