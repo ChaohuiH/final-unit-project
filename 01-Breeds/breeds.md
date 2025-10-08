@@ -1,1 +1,1 @@
-"Learn about different cat breeds like Siamese, Maine Coon, and Ragdoll." 
+"Cats have different breeds like Siamese, Maine Coon, and Ragdoll." 
